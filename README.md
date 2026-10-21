@@ -29,8 +29,6 @@ Os testes utilizam a API Book Store da DemoQA e executam as seguintes etapas em 
 
 ### API e documentação
 
-- [Book Store API — DemoQA] (https://demoqa.com)
-
 - [Documentação Swagger] (https://demoqa.com/swagger)
 
 ## Pré-requisitos

@@ -22,16 +22,16 @@ Os testes utilizam a API Book Store da DemoQA e executam as seguintes etapas em 
 5. Reservar dois livros.
 6. Consultar os dados do usuário e validar os livros reservados.
 
-Arquivo de teste
+### Arquivo de teste
 
-cypress/e2e/api/book-store-fluxo-completo.cy.js
+`cypress/e2e/api/book-store-fluxo-completo.cy.js`
 
 
-## API e documentação
+### API e documentação
 
-Book Store API — DemoQA
+- [Book Store API — DemoQA] (https://demoqa.com)
 
-Documentação Swagger
+- [Documentação Swagger] (https://demoqa.com/swagger)
 
 ## Pré-requisitos
 
@@ -45,23 +45,27 @@ Não é necessário iniciar uma aplicação local, pois os testes realizam requi
 
 ## Como executar o projeto
 
-1.Clone o repositório:
-```
+### 1.Clone o repositório:
+
+```bash
 git clone https://github.com/anapcavalcanti02-dot/accenture-qa-automation.git
 ```
 
-2.Entre na pasta do projeto:
-```
+### 2.Entre na pasta do projeto:
+
+```bash
 cd accenture-qa-automation
 ```
 
-3.Instale as dependências:
-```
+### 3.Instale as dependências:
+
+```bash
 npm install
 ```
 
-4.Execute o teste:
-```
+### 4.Execute o teste:
+
+```bash
 npm test
 ```
 

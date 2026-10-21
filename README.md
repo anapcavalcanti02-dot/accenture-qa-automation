@@ -24,16 +24,14 @@ Os testes utilizam a API Book Store da DemoQA e executam as seguintes etapas em 
 
 Arquivo de teste
 
-```O fluxo completo está implementado em:
 cypress/e2e/api/book-store-fluxo-completo.cy.js
-```
 
-```API utilizada
 
-Book Store API: https://demoqa.com
+## API e documentação
 
-Documentação Swagger: https://demoqa.com/swagger
-```
+Book Store API — DemoQA
+
+Documentação Swagger
 
 ## Pré-requisitos
 

@@ -209,7 +209,7 @@ As evidências podem incluir capturas de tela, vídeos curtos e resultados de ex
 
 **Resultado observado:** o botão Close não fechou o modal durante a execução manual; o clique fora da janela fechou o modal.
 
-- Evidência em vídeo: adicionar link após publicar o vídeo.
+- Evidência em vídeo: [Assistir à gravação do teste](evidencias/practice-form-modal-close.mov).
 - Resultado esperado: o modal deve fechar após a interação prevista pelo comportamento da aplicação.
 - Resultado observado: o fechamento ocorreu ao clicar fora do modal.
 
@@ -225,5 +225,6 @@ Esses cenários ainda não foram implementados.
 O projeto demonstra a aplicação de automação de testes de API e interface com Cypress, incluindo validações, interações com elementos visuais, operações CRUD em tabelas e documentação de comportamentos observados durante os testes.
 
 
+=======
 
 
